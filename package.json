@@ -19,9 +19,10 @@
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
+    "enzyme": "^2.8.2",
     "eslint": "^3.19.0",
     "eslint-plugin-react": "^6.10.3",
-    "jest": "^23.5.0",
+    "jest": "^19.0.2",
     "react-test-renderer": "^15.5.4"
   },
   "dependencies": {
